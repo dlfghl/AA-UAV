@@ -33,8 +33,8 @@ import android.widget.TextView;
 public class ConnectionTest extends Activity {
 
 	//.: Connection variables.
-	public static String ipaddress = "46.121.229.158";
-	public static int port = 5555;
+	public static String ipaddress = "39.121.5.239";
+	public static int port = 80;
 	public Socket mySkt;
 	public PrintStream myPS;
 	public BufferedReader myBR;
